@@ -1,0 +1,33 @@
+body{
+    font-family: 'Kanit', sans-serif;
+}
+.title-1{
+    border-radius:10;
+    border: solid black;
+    background-color: orangered;
+    color: yellow;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.title-2{
+    border-radius:10;
+    border: solid black;
+    background-color: orangered;
+    color: yellow;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.title-3{
+    border-radius:10;
+    border: solid black;
+    background-color: orangered;
+    color: yellow;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+#massage{
+    border-style: dashed;
+    margin-left: 30px;
+    background-color: bisque;
+    border-color: aqua;
+}
